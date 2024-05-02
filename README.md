@@ -33,7 +33,7 @@ def computeSimilarity(alignmentfile = None):
     return alignemnt_similarity
 ```
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
